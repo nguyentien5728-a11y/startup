@@ -1,7 +1,7 @@
 # startup
 abc1
 # cac ban thay hay khong# 
-# THAY DOI TIEP THEO
+# thay đổi thứ 2
 # thay doi thu 3
 
 
